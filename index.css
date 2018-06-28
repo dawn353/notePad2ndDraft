@@ -35,3 +35,7 @@
    margin-bottom: 15px;
    padding: 4px 12px;
    }
+
+.notepadPic {
+  background-image: url("notepad.jpg");
+}
