@@ -38,6 +38,5 @@ function newCard(){
                 <BR>
             </div>
           </div>
-        </div>
-   <br><br>`);
+        </div>`);
 }
